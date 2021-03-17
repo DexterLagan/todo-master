@@ -1,2 +1,36 @@
 # Todo Master
 Todo Master is a Todo List manager with advanced features, such as export to HTML/CSV/Excel, Calendar and note view.
+
+<p align="center"><img src="Screenshots/MainWindow.PNG"></p>
+
+# Downloads
+
+You can <b>download</b> the latest release for <b>Windows</b> and <b>Linux</b> [HERE](https://github.com/DexterLagan/todo-master/releases/tag/v1.7.316).
+
+# Features
+
+Several practical functions are hidden in the main menu, replicated in contextual menus available in the list-box. '<b>Export CSV File</b>' is self-explanatory. More specific export types are available in the contextual popup-menu opened on selected items:
+
+<p align="center"><img src="Screenshots/Export.PNG"></p>
+
+The <b>Editor View</b> lets one edit the selected items as plain text. Useful for fixing formatting before exporting to another program:
+
+<p align="center"><img src="Screenshots/Editor.PNG"></p>
+
+The <b>Report View</b> outputs the selected and/or checked items as an HTML bullet-point list. This view is mainly used to automatically copy-paste the list to other programs or e-mail. Note that items prefixed with 'Work on' will make all items following it as sub-item in the HTML list.
+
+<p align="center"><img src="Screenshots/Report.PNG"></p>
+
+The <b>Calendar View</b> lets one visualize scheduled items on a calendar. One can also create items on specific days. List items can also be scheduled using date controls on the item editor:
+
+<p align="center"><img src="Screenshots/Calendar.PNG"></p>
+
+The <b>Item Editor</b> lets one create and edit todo items. There are buttons to automate programmer's key phrases to keep a development log, as well as automatically generate matching test lines. On the same window, the priority and date or day of the week can also be set:
+
+<p align="center"><img src="Screenshots/Item.PNG"></p>
+
+
+Cheers,
+
+Dexter
+
