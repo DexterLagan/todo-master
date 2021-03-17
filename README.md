@@ -9,6 +9,10 @@ You can <b>download</b> the latest release for <b>Windows</b> [HERE](https://git
 
 # Features
 
+The <b>Item Editor</b> lets one create and edit todo items. There are buttons to automate programming key phrases to keep a development log, as well as automatically generate matching test lines. On the same window, the priority and scheduled completion date can also be set. One can also select a week day in the date selector to repeat a task every week:
+
+<p align="center"><img src="Screenshots/Item.PNG"></p>
+
 Several practical functions are hidden in the main menu, replicated in contextual menus available in the list-box. '<b>Export CSV File</b>' is self-explanatory. More specific export types are available in the contextual popup-menu opened on selected items:
 
 <p align="center"><img src="Screenshots/Export.PNG"></p>
@@ -24,11 +28,6 @@ The <b>Report View</b> outputs the selected and/or checked items as an HTML bull
 The <b>Calendar View</b> lets one visualize scheduled items on a calendar. One can also create items on specific days. List items can also be scheduled using date controls on the item editor:
 
 <p align="center"><img src="Screenshots/Calendar.PNG"></p>
-
-The <b>Item Editor</b> lets one create and edit todo items. There are buttons to automate programmer's key phrases to keep a development log, as well as automatically generate matching test lines. On the same window, the priority and date or day of the week can also be set:
-
-<p align="center"><img src="Screenshots/Item.PNG"></p>
-
 
 Cheers,
 
