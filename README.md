@@ -1,5 +1,5 @@
 # Todo Master
-Todo Master is a Programmer's todo list manager with advanced features, such as export to HTML/CSV/Excel, Calendar and note view.
+Todo Master is a programmer's todo list manager with advanced features, such as export to HTML/CSV/Excel, Calendar and note view.
 
 <p align="center"><img src="Screenshots/MainWindow.PNG"></p>
 
