@@ -5,7 +5,7 @@ Todo Master is a Todo List manager with advanced features, such as export to HTM
 
 # Downloads
 
-You can <b>download</b> the latest release for <b>Windows</b> and <b>Linux</b> [HERE](https://github.com/DexterLagan/todo-master/releases/tag/v1.7.316).
+You can <b>download</b> the latest release for <b>Windows</b> [HERE](https://github.com/DexterLagan/todo-master/releases/tag/v1.7.316).
 
 # Features
 
