@@ -29,7 +29,6 @@ The <b>Calendar View</b> lets one visualize scheduled items on a calendar. One c
 
 <p align="center"><img src="Screenshots/Calendar.PNG"></p>
 
-Cheers,
+## License
 
-Dexter
-
+Todo Master is free software; see [LICENSE](https://github.com/DexterLagan/todo-master/blob/main/LICENSE) for more details.
